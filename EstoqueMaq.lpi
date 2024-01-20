@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectOptions>
+    <Version Value="12"/>
+    <PathDelim Value="\"/>
+    <General>
+      <SessionStorage Value="InProjectDir"/>
+      <Title Value="EstoqueMaq"/>
+      <Scaled Value="True"/>
+      <ResourceType Value="res"/>
+      <UseXPManifest Value="True"/>
+      <XPManifest>
+        <DpiAware Value="True"/>
+      </XPManifest>
+      <Icon Value="0"/>
+    </General>
+    <BuildModes>
+      <Item Name="Default" Default="True"/>
+    </BuildModes>
+    <PublishOptions>
+      <Version Value="2"/>
+      <UseFileFilters Value="True"/>
+    </PublishOptions>
+    <RunParams>
+      <FormatVersion Value="2"/>
+    </RunParams>
+    <RequiredPackages>
+      <Item>
+        <PackageName Value="FCL"/>
+      </Item>
+      <Item>
+        <PackageName Value="zcomponent"/>
+      </Item>
+      <Item>
+        <PackageName Value="LCL"/>
+      </Item>
+    </RequiredPackages>
+    <Units>
+      <Unit>
+        <Filename Value="EstoqueMaq.lpr"/>
+        <IsPartOfProject Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="untprinc.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmPrinc"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="untPrinc"/>
+      </Unit>
+      <Unit>
+        <Filename Value="untlogin.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmLogin"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="untLogin"/>
+      </Unit>
+      <Unit>
+        <Filename Value="untdatamodule.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="dmConexao"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="DataModule"/>
+        <UnitName Value="untDataModule"/>
+      </Unit>
+      <Unit>
+        <Filename Value="classeusuario.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="classeUsuario"/>
+      </Unit>
+      <Unit>
+        <Filename Value="classecriptografia.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="classeCriptografia"/>
+      </Unit>
+      <Unit>
+        <Filename Value="classecriatabelas.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="ClasseCriaTabelas"/>
+      </Unit>
+      <Unit>
+        <Filename Value="classefuncionarios.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="ClasseFuncionarios"/>
+      </Unit>
+      <Unit>
+        <Filename Value="untgerfuncionarios.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmGerFuncionarios"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="untGerFuncionarios"/>
+      </Unit>
+      <Unit>
+        <Filename Value="untgermaquinas.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmGerMaquinas"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="untGerMaquinas"/>
+      </Unit>
+      <Unit>
+        <Filename Value="classemaquinas.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="ClasseMaquinas"/>
+      </Unit>
+      <Unit>
+        <Filename Value="classensmaq.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="ClasseNsMaq"/>
+      </Unit>
+      <Unit>
+        <Filename Value="untentmaquinas.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmEntMaq"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="untEntMaquinas"/>
+      </Unit>
+      <Unit>
+        <Filename Value="classecomuns.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="ClasseComuns"/>
+      </Unit>
+      <Unit>
+        <Filename Value="classemovimentacao.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="ClasseMovimentacao"/>
+      </Unit>
+      <Unit>
+        <Filename Value="untmovimentacao.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmMovimentacao"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="untMovimentacao"/>
+      </Unit>
+    </Units>
+  </ProjectOptions>
+  <CompilerOptions>
+    <Version Value="11"/>
+    <PathDelim Value="\"/>
+    <Target>
+      <Filename Value="EstoqueMaq"/>
+    </Target>
+    <SearchPaths>
+      <IncludeFiles Value="$(ProjOutDir)"/>
+      <UnitOutputDirectory Value="lib\$(TargetCPU)-$(TargetOS)"/>
+    </SearchPaths>
+    <Linking>
+      <Debugging>
+        <DebugInfoType Value="dsDwarf3"/>
+      </Debugging>
+      <Options>
+        <Win32>
+          <GraphicApplication Value="True"/>
+        </Win32>
+      </Options>
+    </Linking>
+  </CompilerOptions>
+  <Debugging>
+    <Exceptions>
+      <Item>
+        <Name Value="EAbort"/>
+      </Item>
+      <Item>
+        <Name Value="ECodetoolError"/>
+      </Item>
+      <Item>
+        <Name Value="EFOpenError"/>
+      </Item>
+    </Exceptions>
+  </Debugging>
+</CONFIG>

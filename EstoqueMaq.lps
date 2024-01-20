@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="EstoqueMaq.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="52" Y="17"/>
+        <UsageCount Value="68"/>
+      </Unit>
+      <Unit>
+        <Filename Value="untprinc.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmPrinc"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="untPrinc"/>
+        <TopLine Value="53"/>
+        <CursorPos X="15" Y="68"/>
+        <UsageCount Value="68"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="untlogin.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmLogin"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="untLogin"/>
+        <EditorIndex Value="5"/>
+        <CursorPos X="3" Y="9"/>
+        <UsageCount Value="67"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="untdatamodule.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="dmConexao"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="DataModule"/>
+        <UnitName Value="untDataModule"/>
+        <EditorIndex Value="2"/>
+        <CursorPos X="38" Y="17"/>
+        <UsageCount Value="63"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="classeusuario.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="classeUsuario"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="41"/>
+        <CursorPos X="3" Y="12"/>
+        <UsageCount Value="62"/>
+      </Unit>
+      <Unit>
+        <Filename Value="classecriptografia.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="classeCriptografia"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="5"/>
+        <UsageCount Value="62"/>
+      </Unit>
+      <Unit>
+        <Filename Value="classecriatabelas.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="ClasseCriaTabelas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="167"/>
+        <CursorPos X="100" Y="181"/>
+        <UsageCount Value="62"/>
+      </Unit>
+      <Unit>
+        <Filename Value="classefuncionarios.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="ClasseFuncionarios"/>
+        <EditorIndex Value="8"/>
+        <TopLine Value="101"/>
+        <CursorPos X="19" Y="107"/>
+        <UsageCount Value="56"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="untgerfuncionarios.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmGerFuncionarios"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="untGerFuncionarios"/>
+        <EditorIndex Value="4"/>
+        <CursorPos X="43" Y="158"/>
+        <UsageCount Value="55"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="untgermaquinas.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmGerMaquinas"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="untGerMaquinas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="36"/>
+        <CursorPos X="46" Y="52"/>
+        <UsageCount Value="48"/>
+      </Unit>
+      <Unit>
+        <Filename Value="classemaquinas.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="ClasseMaquinas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="136"/>
+        <CursorPos X="19" Y="159"/>
+        <UsageCount Value="46"/>
+      </Unit>
+      <Unit>
+        <Filename Value="classensmaq.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="ClasseNsMaq"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="133"/>
+        <CursorPos X="25" Y="146"/>
+        <UsageCount Value="45"/>
+      </Unit>
+      <Unit>
+        <Filename Value="untentmaquinas.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmEntMaq"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="untEntMaquinas"/>
+        <EditorIndex Value="7"/>
+        <TopLine Value="218"/>
+        <CursorPos X="3" Y="220"/>
+        <UsageCount Value="39"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="classecomuns.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="ClasseComuns"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="38" Y="9"/>
+        <UsageCount Value="36"/>
+      </Unit>
+      <Unit>
+        <Filename Value="classemovimentacao.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="ClasseMovimentacao"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="64"/>
+        <CursorPos X="29" Y="84"/>
+        <UsageCount Value="33"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="untmovimentacao.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmMovimentacao"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="untMovimentacao"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="94"/>
+        <CursorPos X="63" Y="104"/>
+        <UsageCount Value="30"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="untcadfunc.pas"/>
+        <ComponentName Value="frmCadFunc"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="untCadFunc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="58"/>
+        <CursorPos X="3" Y="90"/>
+        <UsageCount Value="32"/>
+      </Unit>
+      <Unit>
+        <Filename Value="untcadmaq.pas"/>
+        <ComponentName Value="frmCarMaq"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="untCadMaq"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2"/>
+        <CursorPos X="21" Y="30"/>
+        <UsageCount Value="25"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\win32\classes.pp"/>
+        <UnitName Value="Classes"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\lcl\dialogs.pp"/>
+        <UnitName Value="Dialogs"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="843"/>
+        <CursorPos X="88" Y="713"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="untgerpessoas.pas"/>
+        <ComponentName Value="frmGerPessoas"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="untGerFuncionarios"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="22" Y="14"/>
+        <UsageCount Value="20"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\lcl\forms.pp"/>
+        <UnitName Value="Forms"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="830"/>
+        <CursorPos X="17" Y="848"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\objpas\math.pp"/>
+        <UnitName Value="Math"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="612"/>
+        <CursorPos X="10" Y="630"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\lcl\buttons.pp"/>
+        <UnitName Value="Buttons"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="110"/>
+        <CursorPos X="3" Y="439"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\lcl\dbgrids.pas"/>
+        <UnitName Value="DBGrids"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="553"/>
+        <CursorPos X="3" Y="570"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\packages\fcl-db\src\base\db.pas"/>
+        <UnitName Value="DB"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\objpas\classes\classesh.inc"/>
+        <EditorIndex Value="6"/>
+        <TopLine Value="1875"/>
+        <CursorPos X="26" Y="1894"/>
+        <UsageCount Value="16"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\lcl\extctrls.pp"/>
+        <UnitName Value="ExtCtrls"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1002"/>
+        <CursorPos X="3" Y="1019"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\objpas\sysutils\sysstrh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="39"/>
+        <CursorPos X="3" Y="56"/>
+        <UsageCount Value="10"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="classemovimentacao.pas"/>
+        <Caret Line="72" TopLine="64"/>
+      </Position>
+      <Position>
+        <Filename Value="classemovimentacao.pas"/>
+        <Caret Line="76" TopLine="64"/>
+      </Position>
+      <Position>
+        <Filename Value="classemovimentacao.pas"/>
+        <Caret Line="78" TopLine="64"/>
+      </Position>
+      <Position>
+        <Filename Value="classemovimentacao.pas"/>
+        <Caret Line="79" TopLine="64"/>
+      </Position>
+      <Position>
+        <Filename Value="classemovimentacao.pas"/>
+        <Caret Line="80" TopLine="64"/>
+      </Position>
+      <Position>
+        <Filename Value="classemovimentacao.pas"/>
+        <Caret Line="81" TopLine="64"/>
+      </Position>
+      <Position>
+        <Filename Value="classemovimentacao.pas"/>
+        <Caret Line="84" TopLine="64"/>
+      </Position>
+      <Position>
+        <Filename Value="classemovimentacao.pas"/>
+        <Caret Line="87" TopLine="64"/>
+      </Position>
+      <Position>
+        <Filename Value="untmovimentacao.pas"/>
+        <Caret Line="122" Column="3" TopLine="122"/>
+      </Position>
+      <Position>
+        <Filename Value="classemovimentacao.pas"/>
+        <Caret Line="64" TopLine="47"/>
+      </Position>
+      <Position>
+        <Filename Value="classemovimentacao.pas"/>
+        <Caret Line="65" TopLine="47"/>
+      </Position>
+      <Position>
+        <Filename Value="classemovimentacao.pas"/>
+        <Caret Line="66" TopLine="47"/>
+      </Position>
+      <Position>
+        <Filename Value="classemovimentacao.pas"/>
+        <Caret Line="68" TopLine="47"/>
+      </Position>
+      <Position>
+        <Filename Value="classemovimentacao.pas"/>
+        <Caret Line="69" TopLine="47"/>
+      </Position>
+      <Position>
+        <Filename Value="classemovimentacao.pas"/>
+        <Caret Line="70" TopLine="47"/>
+      </Position>
+      <Position>
+        <Filename Value="classemovimentacao.pas"/>
+        <Caret Line="71" TopLine="47"/>
+      </Position>
+      <Position>
+        <Filename Value="classemovimentacao.pas"/>
+        <Caret Line="72" TopLine="47"/>
+      </Position>
+      <Position>
+        <Filename Value="classemovimentacao.pas"/>
+        <Caret Line="73" TopLine="47"/>
+      </Position>
+      <Position>
+        <Filename Value="classemovimentacao.pas"/>
+        <Caret Line="72" TopLine="47"/>
+      </Position>
+      <Position>
+        <Filename Value="classemovimentacao.pas"/>
+        <Caret Line="76" TopLine="64"/>
+      </Position>
+      <Position>
+        <Filename Value="classemovimentacao.pas"/>
+        <Caret Line="78" TopLine="64"/>
+      </Position>
+      <Position>
+        <Filename Value="classemovimentacao.pas"/>
+        <Caret Line="79" TopLine="64"/>
+      </Position>
+      <Position>
+        <Filename Value="classemovimentacao.pas"/>
+        <Caret Line="80" TopLine="64"/>
+      </Position>
+      <Position>
+        <Filename Value="classemovimentacao.pas"/>
+        <Caret Line="81" TopLine="64"/>
+      </Position>
+      <Position>
+        <Filename Value="classemovimentacao.pas"/>
+        <Caret Line="84" TopLine="64"/>
+      </Position>
+      <Position>
+        <Filename Value="classemovimentacao.pas"/>
+        <Caret Line="85" TopLine="64"/>
+      </Position>
+      <Position>
+        <Filename Value="untmovimentacao.pas"/>
+        <Caret Line="67" Column="31" TopLine="56"/>
+      </Position>
+      <Position>
+        <Filename Value="untmovimentacao.pas"/>
+        <Caret Line="66" Column="52" TopLine="56"/>
+      </Position>
+      <Position>
+        <Filename Value="untmovimentacao.pas"/>
+        <Caret Line="68" Column="52" TopLine="57"/>
+      </Position>
+      <Position>
+        <Filename Value="untmovimentacao.pas"/>
+        <Caret Line="166" Column="18" TopLine="163"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="classemovimentacao.pas"/>
+        <Line Value="64"/>
+      </Item>
+    </BreakPoints>
+  </Debugging>
+</CONFIG>

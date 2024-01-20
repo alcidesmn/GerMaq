@@ -1,0 +1,23 @@
+object dmConexao: TdmConexao
+  OldCreateOrder = False
+  Height = 403
+  HorizontalOffset = 946
+  VerticalOffset = 314
+  Width = 652
+  object ConexaoDB: TZConnection
+    ControlsCodePage = cCP_UTF8
+    Properties.Strings = (
+      'AutoEncodeStrings='
+    )
+    TransactIsolationLevel = tiReadCommitted
+    HostName = 'localhost'
+    Port = 3306
+    Database = 'germaq'
+    User = 'root'
+    Password = 'ciducada'
+    Protocol = 'MariaDB-10'
+    LibraryLocation = 'D:\LAZARUS\libmariadb.dll'
+    Left = 133
+    Top = 104
+  end
+end
